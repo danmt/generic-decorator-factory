@@ -1,0 +1,1 @@
+export { WeaponCategorizer } from './categorizer';
