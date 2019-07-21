@@ -1,3 +1,6 @@
-# rxjs-ac2p9m
+# Zombie Apocalypse is HERE! 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-ac2p9m)
+## Make sure to choose your weapon wisely.
+
+This project is intended to work as a demo for showing a Typescript generic decorator factory. It also includes an example of how to use a decorator to create generic rxjs operators.
+
